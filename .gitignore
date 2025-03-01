@@ -1,0 +1,7 @@
+# Platform local preferences.
+.DS_Store
+
+# Cargo build artifacts.
+# Lockfile is ignored here because such crate is a lib rather than bin.
+target/
+Cargo.lock
