@@ -1,5 +1,6 @@
 [package]
 name = "interacter"
+description = "Rust command-line utilities including decorations and logger."
 version = "0.1.0"
 edition = "2024"
 
